@@ -1,0 +1,13 @@
+*.pyc
+*.pyo
+*.pyd
+__py
+**/__pycache__/
+assets/
+test_images/
+.vscode/
+ultralytics/
+weight/sam_vit_l_0b3195.pth
+weight/ObjectAwareModel.pt
+test*
+*onnx
